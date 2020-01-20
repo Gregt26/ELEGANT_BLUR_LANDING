@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Blur effect",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "author": "Greg Taylor",
+  "license": "ISC",
+  "homepage": "https://Gregt26.github.io/ELEGANT_BLUR_LANDING",
+  "keywords": [],
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
